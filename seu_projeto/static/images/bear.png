@@ -1,1 +1,1 @@
-<img src="{{ url_for('static', filename='images/bear.png') }}" alt="Ursinho" class="bear">
+<img src="{{ url_for('static', filename='images/') }}" https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.creativefabrica.com%2Fproduct%2Fbear-png-file-cute-clip-art-36%2F&psig=AOvVaw1KWezSkHMbsILJDidnPKaZ&ust=1755804729819000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIC7n8OQmo8DFQAAAAAdAAAAABAE="Ursinho" class="bear">
