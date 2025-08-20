@@ -17,3 +17,5 @@ Um site simples feito com Flask para mostrar carinho de um jeito especial.
 3. Acesse [http://localhost:5000](http://localhost:5000)
 
 ---
+
+Para deploy (Heroku, etc), use o Procfile e Gunicorn.
